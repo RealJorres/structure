@@ -38,3 +38,7 @@
   height: 50%;
   object-fit: contain;
 }
+
+span p{
+  display: inline;
+}
